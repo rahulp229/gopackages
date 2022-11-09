@@ -2,6 +2,6 @@ package greetings
 
 import "fmt"
 
-func greetMessage(name string) {
+func GreetMessage(name string) {
 	fmt.Printf("Hello %v \n", name)
 }
